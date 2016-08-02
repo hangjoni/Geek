@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+	<form method = "post">
+		<h2> Registration Page </h2>
+		<label>
+			<div>username</div>
+			<input type="text" name="uid" value="{{uid}}">
+			<div class="error_uid">{{error_uid}}</div>
+		</label>
+
+		<label>
+			<div>password</div>
+			<input type="text" name="password_1">
+			<div class="error_password_1">{{error_password_1}}</div>
+		</label>
+
+		<label>
+			<div>retype your password</div>
+			<input type="text" name="password_2">
+			<div class= "error_password_2">{{error_password_2}}</div>
+		</label>
+
+		<input type="submit">
+	</form>
+
+{% endblock %}

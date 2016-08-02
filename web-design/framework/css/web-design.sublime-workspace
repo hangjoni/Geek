@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"G",
+				"GqlQuery"
+			],
+			[
+				"has",
+				"hased_password"
+			],
+			[
+				"make",
+				"make_secure_val"
+			],
+			[
+				"error_",
+				"error_password_1"
+			],
+			[
+				"er",
+				"error_password_1"
+			],
+			[
+				"erro",
+				"error_uid"
+			],
+			[
+				"err",
+				"error_password_2"
+			],
+			[
+				"pass",
+				"password_1"
+			],
+			[
+				"pas",
+				"password_2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/HangJoni/web-design/framework/test.html",
+			"settings":
+			{
+				"buffer_size": 849,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Bootstrap 101 Template</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Bootstrap -->\n    <!-- Latest compiled and minified CSS -->\n    <link rel=\"stylesheet\" href=\"http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css\">\n    <!-- Optional theme -->\n    <link rel=\"stylesheet\" href=\"http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css\">\n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"../../assets/js/html5shiv.js\"></script>\n      <script src=\"../../assets/js/respond.min.js\"></script>\n    <![endif]-->\n  </head>\n  <body>\n  <div class=\"container\">\n\n    \n </div>\n \n    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n    <script src=\"http://code.jquery.com/jquery-latest.min.js\" type=\"text/javascript\"></script>    \n    <!-- Latest compiled and minified JavaScript -->\n    <script src=\"http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js\"></script>\n  </body>\n</html>",
+			"file": "/Users/HangJoni/web-design/bootstrap-test.html",
+			"file_size": 0,
+			"file_write_time": 130886841640000000,
+			"settings":
+			{
+				"buffer_size": 1098,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 373.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"setsy",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/HangJoni/web-design",
+		"/Users/HangJoni/web-design/framework"
+	],
+	"file_history":
+	[
+		"/Users/HangJoni/helloworld/templates/registration.html",
+		"/Users/HangJoni/helloworld/templates/front.html",
+		"/Users/HangJoni/helloworld/main.py",
+		"/Users/HangJoni/web-design/framework/css/main.css",
+		"/Users/HangJoni/web-design/framework/test.html",
+		"/Users/HangJoni/helloworld/templates/base.html",
+		"/Users/HangJoni/Documents/get-pip.py",
+		"/Users/HangJoni/helloworld/templates/login.html",
+		"/Users/HangJoni/helloworld/templates/blank.html",
+		"/Users/HangJoni/helloworld/templates/welcome.html",
+		"/Users/HangJoni/helloworld/static/main.css",
+		"/Users/HangJoni/helloworld/templates/permalink.html",
+		"/Users/HangJoni/helloworld/templates/new_post.html",
+		"/Users/HangJoni/helloworld/templates/post.html",
+		"/Users/HangJoni/helloworld/app.yaml",
+		"/Users/HangJoni/helloworld/templates/shopping_list.html",
+		"/Users/HangJoni/Documents/app.yaml",
+		"/Users/HangJoni/Documents/webapp.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main.css",
+			"row",
+			"@columns",
+			"arts",
+			"FALSE",
+			"MainH",
+			"get_coo",
+			"url",
+			"postpage",
+			"Postpagee",
+			"Postpage",
+			"post",
+			"get",
+			"postpage",
+			"PostPage",
+			"postpage",
+			"redirect",
+			"post",
+			"password",
+			"str(",
+			"print",
+			"str(",
+			"str)",
+			"secret",
+			"welcome.",
+			"'/blog",
+			"created",
+			"thanks",
+			"post.ht",
+			"render_text",
+			"art",
+			"title",
+			"art",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/HangJoni/web-design/framework/test.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/HangJoni/web-design/bootstrap-test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1098,
+								1098
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web-design.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
