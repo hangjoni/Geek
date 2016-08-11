@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h1> Welcome to My Blog. This is the Home Page</h1>
+{% for post in posts %}
+<h3>{{post.title}}</h3>
+<p>{{post.html_content}}</p>
+<a href="{{url_for('viewEntry',entry_id=post.id)}}">View</a></br>
+<a href="{{url_for('editEntry',entry_id=post.id)}}">Edit</a></br>
+<a href="{{url_for('deleteEntry',entry_id=post.id)}}">Delete</a></br>
+</br>
+{% endfor %}
+
+</body>
+</html>
